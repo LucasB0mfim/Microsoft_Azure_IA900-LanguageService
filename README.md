@@ -48,7 +48,7 @@ Selecione **`Classify text`** e depois o clique no card escrito **`Analyze senti
 
 ###
 
-<img src="./inputs/8.png />
+<img src="./inputs/8.png" />
 
 ###
 
@@ -56,11 +56,11 @@ Selecione **`Classify text`** e depois o clique no card escrito **`Analyze senti
 
 ###
 
-<img src="./inputs/9.png">
+<img src="./inputs/9.png" />
 
 ###
 
-<img src="./inputs/10.png">
+<img src="./inputs/10.png" />
 
 ###
 
