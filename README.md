@@ -28,7 +28,7 @@
 
 # Utilize o serviço
 
-Selecione **`Classify text`** e depois o clique no card escrito **`Analyze sentiment and mine opinions`**
+Selecione **`Classify text`** e depois clique no card escrito **`Analyze sentiment and mine opinions`**
 
 ###
 
@@ -36,7 +36,7 @@ Selecione **`Classify text`** e depois o clique no card escrito **`Analyze senti
 
 ###
 
-> Agora que você já está dentro do serviço, selecione o idioma do seu texto e cole-o no campo abaixo como segue o exemplo:
+> **Agora que você já está dentro do serviço, selecione o idioma do seu texto e cole-o no campo abaixo como segue o exemplo:**
 
 ###
 
@@ -44,7 +44,7 @@ Selecione **`Classify text`** e depois o clique no card escrito **`Analyze senti
 
 ###
 
-> Role a página para baixo, marque a caixa (checkbox) e receba o seu texto analisado pela IA.
+> **Role a página para baixo, marque a caixa (checkbox) e receba o seu texto analisado pela IA.**
 
 ###
 
