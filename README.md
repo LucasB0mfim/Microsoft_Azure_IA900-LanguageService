@@ -77,3 +77,7 @@ Selecione **`Classify text`** e depois clique no card escrito **`Analyze sentime
 ### Resumo de Documentos: 
 
 > Usar a extração de frases chave para criar resumos automáticos de documentos extensos.
+
+#
+
+### **Vale lembrar de que isso é um laboratório de estudos, caso também pretenda realizar esse lab, não se esqueça de excluir TUDO assim que terminar para não ser cobrado posteriormente!!**
